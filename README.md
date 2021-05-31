@@ -1,3 +1,3 @@
 # doan
-Đồ án xử lý ảnh y tế 
-Xử lý ảnh trong y tế 
+Đồ án xử lý ảnh phát hiện ung thư phổi  
+
